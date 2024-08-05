@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hello there 👋
+
+I'm Ivaylo Ivanov, a soon-to-be 17 years old Linux kernel and low level development enthusiast from 🇧🇬
+
+- 📫 Reach me at:
+**ivo.ivanov.ivanov1@gmail.com**
+
+<p align="left">
+<a href="https://x.com/ivoszbg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="x__ivoszbg" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ivaylo-ivanov-ivanov1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="ivaylo-ivanov-ivanov1" height="30" width="30" /></a>
+<a href="https://t.me/ivoszbg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Telegram_X_2019_Logo.svg/512px-Telegram_X_2019_Logo.svg.png?20220403112442" alt="tg__ivoszbg" height="30" width="30" /></a>
+</p>
 
 <!--
 **ivoszbg/ivoszbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
