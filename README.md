@@ -1,7 +1,7 @@
 ## Hello there 👋
 I'm Ivaylo Ivanov, a 17 years old Linux kernel and low level development enthusiast from 🇧🇬
 
-I've been coding for 6 years by now. Not only that, I've gone to multiple national IT olympiads, reaching top 3 almost always, as well as participating in hackatons, having won 2nd place (and receiving a reward of 350 euros) in June 2024. I'm the author of a small secondary bootloader called "uniLoader" that works on almost all modern exynos devices. I've also been leading a project called "Mainline4Lumia", which provides mainline Linux for Lumia devices. In the past I've had to deal with EDK2, U-Boot, Darwin and a lot more OSS projects, as well as PCB design and 3d modeling.
+I've been coding for 6 years by now. Not only that, I've gone to multiple national IT olympiads, reaching top 10 always, as well as participating in hackatons, having won 2nd place (and receiving a reward of 350 euros) in June 2024. I'm the author of a small secondary bootloader called "uniLoader" that works on almost all modern exynos devices. I've also been leading a project called "Mainline4Lumia", which provides mainline Linux for Lumia devices. In the past I've had to deal with EDK2, U-Boot, Darwin and a lot more OSS projects, as well as PCB design and 3d modeling.
 
 I've done basic Linux SoC and device bring up for:
 - Samsung Galaxy S8
@@ -11,7 +11,9 @@ And advanced for:
 - Samsung Galaxy Xcover 3 Value Edition
 - Microsoft Lumia 540
 
-patches merged in linux-next (working on upstreaming a lot of stuff): https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=Ivaylo+Ivanov
+[my personal site](http://ivoszbg.xyz)
+
+[patches merged in linux-next (working on upstreaming a lot of stuff)](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=Ivaylo+Ivanov)
 
 - 📫 Reach me at:
 **ivo.ivanov.ivanov1@gmail.com**
