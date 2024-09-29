@@ -1,5 +1,5 @@
 ## Hello there 👋
-I am Ivaylo Ivanov, a 17-year-old aspiring systems engineer from Bulgaria, specializing in Linux kernel and low-level development.
+I am Ivaylo Ivanov, a 17-year-old aspiring embedded enthusiast from Bulgaria, specializing in Linux kernel and low-level development.
 
 [my personal site](http://ivoszbg.xyz)
 
